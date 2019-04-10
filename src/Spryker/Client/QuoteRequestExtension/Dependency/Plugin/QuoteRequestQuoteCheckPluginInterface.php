@@ -9,7 +9,7 @@ namespace Spryker\Client\QuoteRequestExtension\Dependency\Plugin;
 
 use Generated\Shared\Transfer\QuoteTransfer;
 
-interface QuoteRequestCreatePreCheckPluginInterface
+interface QuoteRequestQuoteCheckPluginInterface
 {
     /**
      * Specification:
